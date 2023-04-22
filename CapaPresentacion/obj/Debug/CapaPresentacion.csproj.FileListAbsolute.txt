@@ -1,0 +1,155 @@
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\obj\Debug\CapaPresentacion.fmCategoria.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\obj\Debug\CapaPresentacion.fmProvedores.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\obj\Debug\CapaPresentacion.fmReportes.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\obj\Debug\CapaPresentacion.fmUsuarios.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\obj\Debug\CapaPresentacion.fmProductos.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\bin\Debug\ClosedXML.pdb
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\bin\Debug\ClosedXML.pdb
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.fmCategoria.resources
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.fmProvedores.resources
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.fmUsuarios.resources
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.fmProductos.resources
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.fmCompras.resources
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.fm_Negocio.resources
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.fmReporte.resources
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.fmReportesProductos.resources
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\bin\Debug\Aspose.Cells.dll
+C:\Users\18295\Desktop\SistemaInventario - copia\CapaPresentacion\bin\Debug\Aspose.Cells.xml
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\bin\Debug\Aspose.Cells.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\bin\Debug\Aspose.Cells.xml
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\bin\Debug\ClosedXML.pdb
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.fmCategoria.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.fmCompras.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.fmProvedores.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.fmReporte.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.fmReportesProductos.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.fmUsuarios.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.fmProductos.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.fm_Negocio.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventario - copia\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\bin\Debug\Aspose.Cells.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\bin\Debug\ClosedXML.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\bin\Debug\ExcelNumberFormat.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\bin\Debug\System.IO.Packaging.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\bin\Debug\Aspose.Cells.xml
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\bin\Debug\ClosedXML.pdb
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\bin\Debug\ClosedXML.xml
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\bin\Debug\ExcelNumberFormat.xml
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\obj\Debug\CapaPresentacion.fmCategoria.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\obj\Debug\CapaPresentacion.fmProvedores.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\obj\Debug\CapaPresentacion.fmReporte.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\obj\Debug\CapaPresentacion.fmReportesProductos.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\obj\Debug\CapaPresentacion.fmUsuarios.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\obj\Debug\CapaPresentacion.fmProductos.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\obj\Debug\CapaPresentacion.fm_Negocio.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\18295\Documents\VisualEstudioC#\SistemaInventarios\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
